@@ -8,7 +8,6 @@ class Rectangle {
 		System.out.printf("*****\n");
 		System.out.printf("*****\n");
 		System.out.printf("*****\n");
-		
 	}
 
 }
